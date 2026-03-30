@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "issues": [
+    {
+      "type": "file",
+      "name": "pi-extensions/let-me-know-agent.ts",
+      "file": "pi-extensions/let-me-know-agent.ts"
+    }
+  ],
+  "unusedExports": [],
+  "unusedFiles": [
+    {
+      "type": "file",
+      "name": "pi-extensions/let-me-know-agent.ts",
+      "file": "pi-extensions/let-me-know-agent.ts"
+    }
+  ],
+  "unusedDeps": [],
+  "unlistedDeps": [],
+  "summary": "Found 1 issues"
+}
