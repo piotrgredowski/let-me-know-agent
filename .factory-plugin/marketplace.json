@@ -1,0 +1,14 @@
+{
+  "name": "speakup",
+  "description": "Speakup plugins for AI coding agents",
+  "owner": {
+    "name": "speakup"
+  },
+  "plugins": [
+    {
+      "name": "speakup",
+      "description": "Spoken notifications for Droid events - converts Droid lifecycle events into speech using TTS",
+      "source": "./droid-plugin"
+    }
+  ]
+}
